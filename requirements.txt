@@ -1,0 +1,9 @@
+Flask
+SQLAlchemy
+psycopg2
+pyjwt
+Pillow
+dataclass_wizard
+flake8
+pytest
+pytest-env
